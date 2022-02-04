@@ -1,0 +1,12 @@
+.boxes {
+  height: 180px;
+  border: 2px solid rgb(88, 88, 88);
+  border-radius: 10px;
+  background-color: rgb(226, 247, 213);
+  font-size: 30px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 0;
+}
